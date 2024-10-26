@@ -19,5 +19,5 @@
 6. ABM.ipynb: Covers the ABM section, including data preprocessing, feature engineering, the decision tree model, and Agent-Based Modeling, along with the results.
 
 
-All the coding work is conducted within the company's integrated Databricks platform. Databricks is a cloud-based unified analytics platform primarily used for big data processing and machine learning. It provides an integrated workspace that allows data scientists and engineers to build, train, and deploy machine learning models more easily.
-*Due to this warning: "Large notebook warning. Your code and results together are too large to export, clone, or automatically save to revision history. You can clear results or dismiss this warning and continue working normally." As a result, some outputs may not be displayed.*
+*All the coding work is conducted within the company's integrated Databricks platform. Databricks is a cloud-based unified analytics platform primarily used for big data processing and machine learning. It provides an integrated workspace that allows data scientists and engineers to build, train, and deploy machine learning models more easily.  
+Due to this warning: "Large notebook warning. Your code and results together are too large to export, clone, or automatically save to revision history. You can clear results or dismiss this warning and continue working normally." As a result, some outputs may not be displayed.*
